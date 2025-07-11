@@ -1,6 +1,8 @@
 # ✅ Aternos Ultra Dark Theme
 - Aternos is a well-known website for Minecraft-free servers.
-
+## 🖼️ Screenshots
+![Screenshot1](https://github.com/cool-dev-code/Aternos-Dark-Theme/blob/images/Screenshot-1.png)
+![Screenshot1](https://github.com/cool-dev-code/Aternos-Dark-Theme/blob/images/Screenshot-2.png)
 ## ❓How to use
 - Install any browser Extension/Addon which can inject CSS *(**Stylebot** recommended)*
 ## 👉 Install with Stylebot
